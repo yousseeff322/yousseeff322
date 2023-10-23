@@ -1,302 +1,68 @@
-<h1 align="center">
-  
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-  <img
-    src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966"
-    width="30"
-  />
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
   Welcome to Youssef Hamed's profile!
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
-  />
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<div align="center">
-  <br />
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded-Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-  🔭 I’m currently working on **Some Embedded Systems Projects.**
+
+- 🏢 I'm an Embedded Software Engineer 
+- 👨‍💻 As a communication and electronics student, I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about my experience with C programming, microcontroller, or anything related to Automotive Embedded.
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/youssef-hamed-" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/yousseefhamed" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Hamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</h1> 
+
+### Programming Languages :
+
+![C](https://img.shields.io/badge/-C-151A22?style=for-the-badge&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-151A22?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+### Softwares & Tools :
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151A22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-151A22?style=for-the-badge&logo=eclipse-ide)
+![Arduino](https://img.shields.io/badge/-Arduino-151A22?style=for-the-badge&logo=Arduino) 
+![Git](https://img.shields.io/badge/-Git-151A22?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-151A22?style=for-the-badge&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-151A22?style=for-the-badge&logo=markdown)
+![Terminal](https://img.shields.io/badge/Terminal-151A22?style=for-the-badge&logo=gnu-bash)
+![Proteus](https://img.shields.io/badge/Proteus-151A22?style=for-the-badge&logo=proteus)
+
+<h1> 📄 My Certificates  </h1>
+
+- [My Certificates Link](https://drive.google.com/drive/folders/12KDW3w469Is7ocoOX7StPJg8117Q5-GR?usp=sharing)
+
+<h1> 🥸 Taken Courses  </h1>
+
+
+- Embedded System Engineer trainee [@ National Telecommunication Institute (NTI).](https://www.nti.sci.eg/)
+- IMT Online Diploma AVR
+- Eng OsamaElzero Git&github (Youtube)
+- Git and GitHub (https://almdrasa.com)
+- CCNA course With [NTI](https://www.nti.sci.eg/).
+- B1 And B2 English with (New Horizons)
   
-  🌱 I'm currently learning **Automotive Embedded System**
-  
-  👯 I'm looking to collaborate on **Embedded Systems, IOT  or Automative .**
-  
- 💬 Ask me about my experience with C programming, microcontrollers, or anything related to Automotive Embedded System.
-    
-  🤓  Always learning new things.
-  
-  <br />
+<h1><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h1>
 
-  <p align="center">
-    <img src="https://gpvc.arturio.dev/NightBaRron1412" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜" /> •
-    <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=NightBaRron1412&style=flat&color=brightgreen"> •    -->
-    <a href="https://user-badge.committers.top/egypt_private/NightBaRron1412"
-      ><img
-        src="https://user-badge.committers.top/egypt_private/NightBaRron1412.svg"
-    /></a>
-    •
-    <img
-      alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"
-      src="https://img.shields.io/github/followers/NightBaRron1412?label=Followers&style=social"
-    />
-    •
-    <img
-      src="https://img.shields.io/github/stars/NightBaRron1412?label=Stars"
-      alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"
-    />
-    •
-    <a href="https://github.com/sponsors/NightBaRron1412"
-      ><img
-        src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"
-    /></a>
-  </p>
 
-  #
-  ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NightBaRron1412&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousseeff322&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousseeff322&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+    <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseeff322&theme=gotham&hide_border=true">
 
-  <p align="center">
-    <img
-      height="150"
-      width="150"
-      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/left.webp"
-    />
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=NightBaRron1412&theme=dark&hide_border=true"
-    />
-    <img
-      height="150"
-      width="150"
-      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/right.webp"
-    />
-  </p>
 
-  <br />
+
+
 
   
-
-  # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-      alt="C"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"
-      alt="gcc"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
-      alt="CMake"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-      alt="Arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      alt="Anaconda"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-      alt="Jupyter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      alt="VS Code"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      alt="TensorFlow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      alt="Numpy"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      alt="Pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="Photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-      alt="After Effects"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-      alt="MATLAB"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-      alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-  </a>
-
-<br /> <br />
-
-  # 📊GitHub Stats :
-
-  <p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=NightBaRron1412&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    />
-    <img
-      align="center"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=NightBaRron1412&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
-    />
-  </p>
-  
-  ![𝚐𝚒𝚝𝚑𝚞𝚋
-  𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=NightBaRron1412&theme=react-dark&hide_border=true&area=true)
-  [![Code's github activity
-  graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
-
-  <h1>
-    Connect With Me
-    <img
-      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
-      height="25px"
-    />
-  </h1>
-
-  <a href="https://www.linkedin.com/in/ashetaia/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.facebook.com/NightBaRron1412" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-      alt="Facebook"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.instagram.com/nightbarron_1412/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
-      alt="Instagram"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://twitter.com/NightBarRon1412" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"
-      alt="Twitter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://discordapp.com/users/316490121556000775" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"
-      alt="Discord"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <br /><br />
-
-  ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-  ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-  ![](https://forthebadge.com/images/badges/uses-brains.svg)
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-</div>
