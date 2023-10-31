@@ -37,6 +37,9 @@
 - ![Markdown](https://img.shields.io/badge/-Markdown-151A22?style=for-the-badge&logo=markdown)
 - ![Terminal](https://img.shields.io/badge/Terminal-151A22?style=for-the-badge&logo=gnu-bash)
 - ![Proteus](https://img.shields.io/badge/Proteus-151A22?style=for-the-badge&logo=proteus)
+- ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-151A22?style=for-the-badge&logo=CodeBlocks)
+- ![MicrochipStudio](https://img.shields.io/badge/MicrochipStudio-151A22?style=for-the-badge&logo=MicrochipStudio)
+
 
 ## Certificates
 
