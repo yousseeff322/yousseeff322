@@ -61,4 +61,3 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousseeff322&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseeff322&theme=gotham&hide_border=true" height="180em">
 </div>
-![](https://komarev.com/ghpvc/?username=Piistachyoo&style=plastic&color=D83B7D)
